@@ -1,7 +1,7 @@
 import './App.css';
 
 const style = {
-  frontSize : "50px",
+  frontSize : "55px",
   textTransform:"capitalize",
   padding: "40px 0px"
 }
@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-      
+
       {/* {
         name.map(data => <li>{data}</li> )
       } */}
